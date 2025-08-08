@@ -1,2 +1,2 @@
 # python02
-Self python projects
+Former python scripts and projects
